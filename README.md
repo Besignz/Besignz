@@ -17,32 +17,17 @@
   <h3>"Creative coder exploring the intersection of visuals, motion, and software."</h3>
   <p>I build interactive web experiences, experimental desktop tools, and visual-driven digital systems.</p>
 
-</div>
+ <h3>Current Focus</h3>
+      <!-- Badges -->
+      <img src="https://img.shields.io/badge/Designs-🧪-blue?style=for-the-badge" alt="Designs" />
+      <img src="https://img.shields.io/badge/Web Apps-🌐-green?style=for-the-badge" alt="Web Apps" />
+      <img src="https://img.shields.io/badge/Motion-🎬-orange?style=for-the-badge" alt="Motion" />
+      <img src="https://img.shields.io/badge/Landscape-📷-purple?style=for-the-badge" alt="Landscape" />
 
-<table align="center" style="text-align:left;">
-  <tr>
-    <!-- Current Focus -->
-    <td valign="top" width="45%" style="padding:10px; border:1px solid #ddd; border-radius:12px;">
-      <h3 align="center">Current Focus</h3>
-      <ul>
-        <li>🧪 Designs</li>
-        <li>🌐 Web apps</li>
-        <li>🎬 Motion-driven interfaces</li>
-        <li>📷 Landscape visual studies</li>
-      </ul>
-    </td>
-    <td valign="top" width="10%">
-    </td>
-    <td valign="top" width="45%" style="padding:10px; border:1px solid #ddd; border-radius:12px;">
-      <h3 align="center">Selected Experiments</h3>
-      <ul>
-        <li>Interactive portfolio platform</li>
-        <li>Windows dynamic UI concept</li>
-        <li>Motion-enhanced landing pages</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3>Selected Experiments</h3>
+      <img src="https://img.shields.io/badge/Portfolio-Interactive-blueviolet?style=for-the-badge" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Dynamic UI-Windows-red?style=for-the-badge" alt="Dynamic UI" />
+      <img src="https://img.shields.io/badge/Motion Landing-Motion-orange?style=for-the-badge" alt="Motion Landing" />
 
 <!-- ===== Philosophy ===== -->
 <div align="center" style="padding:20px; border:1px solid #ddd; border-radius:12px; max-width:800px; margin:auto;">

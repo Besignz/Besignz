@@ -1,13 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Besignz)](https://git.io/typing-svg)
+<div align="center">
 
-[![Watch the animation](https://img.youtube.com/vi/EjSGjfcYpZA/hqdefault.jpg)](https://www.youtube.com/watch?v=EjSGjfcYpZA)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Besignz" />
+  </a>
 
-Creative coder exploring the intersection of visuals, motion, and software.
+  <br><br>
 
-I build interactive web experiences, experimental desktop tools,
-and visual-driven digital systems.
+  <a href="https://www.youtube.com/watch?v=EjSGjfcYpZA">
+    <img src="https://img.youtube.com/vi/EjSGjfcYpZA/hqdefault.jpg?v=2" width="600" />
+  </a>
+
+  <br><br>
+
+  <p>
+    Creative coder exploring the intersection of visuals, motion, and software.
+  </p>
+
+  <p>
+    I build interactive web experiences, experimental desktop tools,<br>
+    and visual-driven digital systems.
+  </p>
+
+</div>
 
 ---
+
 
 ## Current Focus
 - 🧪 Experimental UI systems
